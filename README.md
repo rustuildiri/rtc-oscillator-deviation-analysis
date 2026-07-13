@@ -12,7 +12,7 @@ Bu durum, mevcut PCB tasarımında çok yüksek bir **parazitik kaçak kapasite 
 Ölçümler, maksimum hassasiyet sağlamak amacıyla **Rohde & Schwarz FSV Sinyal Analizörü (10 Hz – 7 GHz)** ve 10Hz Çözünürlük Bant Genişliği (RBW) kullanılarak gerçekleştirilmiştir.
 
 * ![Setup1:](assets/screenshots/olcum1.png)
-* * ![Setup1:](assets/screenshots/olcum2.png)
+* ![Setup1:](assets/screenshots/olcum2.png)
 
 Çalışma Modu,Ölçülen Frekans,Hedef Frekans,Mutlak Sapma (Δf),Hesaplanan Hata (PPM)
 Aktif Mod (VCC​=3.3V),32.7674 kHz,32.7680 kHz,−0.6 Hz,−18.31 PPM
