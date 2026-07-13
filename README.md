@@ -7,9 +7,12 @@ Bu rapor, RTC devresinde gözlemlenen frekans sapmasını incelemektedir. Spektr
 
 Bu durum, mevcut PCB tasarımında çok yüksek bir **parazitik kaçak kapasite (Cstray)** olduğunu kesin olarak kanıtlamaktadır.
 
----
+--
 
 Ölçümler, maksimum hassasiyet sağlamak amacıyla **Rohde & Schwarz FSV Sinyal Analizörü (10 Hz – 7 GHz)** ve 10Hz Çözünürlük Bant Genişliği (RBW) kullanılarak gerçekleştirilmiştir.
+
+* ![Setup:](assets/screenshots/800mhzsp_004.png)
+* ![Setup:](assets/screenshots/800mhzsp_005.png)
 
 Çalışma Modu,Ölçülen Frekans,Hedef Frekans,Mutlak Sapma (Δf),Hesaplanan Hata (PPM)
 Aktif Mod (VCC​=3.3V),32.7674 kHz,32.7680 kHz,−0.6 Hz,−18.31 PPM
@@ -21,7 +24,7 @@ Shutdown Modu (VBAT​=3.0V),32.7702 kHz,32.7680 kHz,+2.2 Hz,+67.14 PPM
 ### 3.1 Osilatör Yük Kapasitesi Formülü
 Bir kristal osilatörün rezonans frekansı, doğrudan maruz kaldığı toplam eşdeğer yük kapasitesi (CL) tarafından belirlenir:
 
-CL = png koycan .. png
+![Hesap:](assets/screenshots/cl_png_koycan.png)
 
 
 Burada:
@@ -44,7 +47,7 @@ Cihaz shutdown moduna geçtiğinde frekansın aniden 32.7702kHz (+67.14 PPM) sev
 
 Zaman sapması, Parts Per Million (PPM) hatası üzerinden aşağıdaki formülle hesaplanmıştır:
 
-ZAMAN FORMÜL : .PNG
+![Sapma:](assets/screenshots/zaman_sapmasi.png)
 
 
 ### 4.1 Durum A: Aktif Mod (-18.31 PPM / -0.6 Hz)
