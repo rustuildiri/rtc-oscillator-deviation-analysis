@@ -11,6 +11,9 @@ Bu durum, mevcut PCB tasarımında çok yüksek bir **parazitik kaçak kapasite 
 
 Ölçümler, maksimum hassasiyet sağlamak amacıyla **Rohde & Schwarz FSV Sinyal Analizörü (10 Hz – 7 GHz)** ve 10Hz Çözünürlük Bant Genişliği (RBW) kullanılarak gerçekleştirilmiştir.
 
+* ![Setup1:](assets/screenshots/signal_analyzer.png)
+* ![Setup1:](assets/screenshots/2.png)
+* ![Setup1:](assets/screenshots/3.png)
 * ![Setup1:](assets/screenshots/olcum1.png)
 * ![Setup1:](assets/screenshots/olcum2.png)
 
