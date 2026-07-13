@@ -15,8 +15,8 @@ Bu durum, mevcut PCB tasarımında çok yüksek bir **parazitik kaçak kapasite 
 * ![Setup1:](assets/screenshots/olcum2.png)
 
 
--Aktif Mod (VCC​=3.3V),32.7674 kHz,32.7680 kHz,−0.6 Hz,−18.31 PPM
-  -Shutdown Modu (VBAT​=3.0V),32.7702 kHz,32.7680 kHz,+2.2 Hz,+67.14 PPM
+A) **Aktif Mod (VCC​=3.3V),32.7674 kHz,32.7680 kHz,−0.6 Hz,−18.31 PPM
+B) **Shutdown Modu (VBAT​=3.0V),32.7702 kHz,32.7680 kHz,+2.2 Hz,+67.14 PPM
 
 ---
 
